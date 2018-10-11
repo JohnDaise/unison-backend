@@ -1,24 +1,15 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+UNISON
 
-Things you may want to cover:
+Users
 
-* Ruby version
+Network
 
-* System dependencies
+Invite
 
-* Configuration
+Schedule
 
-* Database creation
+Organize
 
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Notes
