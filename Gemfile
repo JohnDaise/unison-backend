@@ -16,6 +16,9 @@ gem 'puma', '~> 3.11'
 # Use ActiveModel has_secure_password
 gem 'bcrypt', '~> 3.1.7'
 gem 'active_model_serializers'
+gem 'dotenv-rails', groups: [:development, :test]
+gem 'faker', '~> 1.7.2'
+gem 'knock', '~> 2.0'
 
 # Use ActiveStorage variant
 # gem 'mini_magick', '~> 4.8'
